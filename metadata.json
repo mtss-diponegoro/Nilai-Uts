@@ -1,0 +1,6 @@
+{
+  "name": "SiNilai UTS - Sistem Informasi Nilai Ujian Tengah Semester & Rapor GAS",
+  "description": "Aplikasi pengelolaan nilai ujian tengah semester (UTS) berbasis Google Apps Script dengan role Admin, Guru Mapel, dan menu Wali Kelas serta cetak rapor otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
